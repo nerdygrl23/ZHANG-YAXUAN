@@ -1,0 +1,11 @@
+{
+  "name": "Bao — Zhang Yaxuan's Personal Agent",
+  "description": "Meet Bao, Zhang Yaxuan's executive personal assistant. Ask questions and converse via real-time voice about Yaxuan's academic background, international experience, and projects.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
